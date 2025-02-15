@@ -4,7 +4,7 @@
 This project is a **Proof of Concept (PoC)** to demonstrate a technique for **manually mapping a DLL** into a target process and then loading another DLL in a way that appears legitimate.
 
 # why?
-I kinda got board and had an idea
+I kinda got board and had an idea and just wanted to knwo if it worked
 
 ## 📌 Features
 
