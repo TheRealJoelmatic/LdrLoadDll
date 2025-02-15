@@ -28,8 +28,8 @@ I kinda got board and had an idea
 ### Compilation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/DLL-Redirection-PoC.git
-   cd DLL-Redirection-PoC
+   git clone https://github.com/TheRealJoelmatic/LdrLoadDll
+   cd LdrLoadDll
    ```
 2. Open the project in **Visual Studio**.
 3. Compile in **x64 Release Mode**.
